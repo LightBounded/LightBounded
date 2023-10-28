@@ -1,3 +1,4 @@
 # Caleb Rivera
 
-Hi! My name is Caleb. I'm the Front-End Lead at KnightHacks and an undergraduate computer science at the University of Central Florida.
+Hey there!
+My name is Caleb. I'm a software engineer and computer science student at the University of Central Florida!
